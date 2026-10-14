@@ -21,6 +21,6 @@ _styles: |
 
 ## Publications
 
-- Yang, W., L. Li, W. Yang and L. Zhang. Multi-product pricing under the q-generalized logit model. *Operations Research Letters*, **65** (2026), Article 107405. ([Journal](https://doi.org/10.1016/j.orl.2026.107405))
+- Yang, W., L. Li, W. Yang and L. Zhang. Multi-product pricing under the q-generalized logit model. *Operations Research Letters*, **65** (2026). ([Journal](https://doi.org/10.1016/j.orl.2026.107405))
 
 <!-- If you add a shareable PDF at assets/pdf/multi-product-pricing-2026.pdf, append: ([PDF]({{ '/assets/pdf/multi-product-pricing-2026.pdf' | relative_url }})) -->
