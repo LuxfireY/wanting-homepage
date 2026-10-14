@@ -17,7 +17,7 @@ _styles: |
 
 - Yang, W., J. Qin and J. Zhang. Dynamic Remote Patient Monitoring under Patient Fatigue. ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7604641))
 - Yang, W., P. Zuo and J. Zhang. Load-Sensitive Fluid Policies for Network Revenue Management. ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7087498))
-- Yang, W., Y. Liu, Z. Wang and L. Zhang. Assortment Optimization under the Nested Markov Chain Choice Model. ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5001144))
+- Yang, W., Y. Liu, Z. Wang and L. Zhang. Assortment Optimization under the Nested Choice Model with Markovian Transition. ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5001144))
 
 ## Publications
 
