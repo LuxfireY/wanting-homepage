@@ -29,7 +29,7 @@ nav_order: 1
       <!-- Replace with final biography. -->
       <div class="biography">
         <p>Hi! I am a fourth-year Ph.D. candidate at The Chinese University of Hong Kong, Shenzhen, advised by <a href="https://sites.google.com/view/jingwei-zhang" target="_blank">Prof. Jingwei Zhang</a>.</p>
-        <p>My research interests lie broadly in stochastic modeling and approximate dynamic programming, with application in resource allocation, healthcare management and revenue management. From 2019 to 2023, I received my B.S. in Mathematics from Southeast University.</p>
+        <p>My research interests lie broadly in stochastic modeling and approximate dynamic programming, with application in resource allocation, healthcare management and revenue management. In 2023, I received my B.S. in Mathematics from Southeast University.</p>
       </div>
     </div>
     <!-- Contact details are read from _config.yml. Missing details are hidden. -->
